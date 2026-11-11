@@ -1,0 +1,6 @@
+{
+  "name": "Mekelle Trade Tracker",
+  "description": "Flexible bulk trade tracker from Addis Ababa to Mekelle with inventory, shipments, and finance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
